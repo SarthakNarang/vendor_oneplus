@@ -201,7 +201,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/onyx/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/oneplus/onyx/proprietary/bin/irsc_util:system/bin/irsc_util \
-    vendor/oneplus/onyx/proprietary/vendor/lib/libdataitems.so:system/vendor/lib/libdataitems.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
