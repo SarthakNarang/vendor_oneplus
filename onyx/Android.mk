@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter onyx,$(TARGET_DEVICE)),)
+ifeq ($(TARGET_DEVICE),onyx)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := qcrilmsgtunnel
