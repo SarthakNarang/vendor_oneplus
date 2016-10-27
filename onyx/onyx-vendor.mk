@@ -271,6 +271,8 @@ PRODUCT_PACKAGES += \
     libmm-abl \
     libtime_genoff \
     libTimeService \
+    libloc_api_v02 \
+    libloc_ds_api \
     shutdownlistener \
     TimeService \
     CNEService \
